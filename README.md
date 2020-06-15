@@ -1,2 +1,4 @@
 # hello-world
-my first GH repository
+
+
+Welcome to my first GH repository! I'm really excited to learn more.
